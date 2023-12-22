@@ -159,6 +159,36 @@ body
 {
     color: #563d7c;
 }
+/*----------------------------------------projects----------------------------------------------*/
+.a-project
+{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items:center;
+}
+.a-project
+{
+    background-image: url("images/project-stages-animate.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.automation-project
+{
+    display: flex;
+    justify-content: center;
+
+}
+.vehicle-project
+{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
 /* --------------------------------------------------------contact me----------------------------------------- */
 form
 {
