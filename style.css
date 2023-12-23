@@ -4,7 +4,7 @@ body
     background-color:#002d5c;
     background-image: url("images/backgroundfullres.jpg");
     background-repeat: no-repeat;
-    background-position:center center;
+    background-position:bottom right;
     max-width: 100%;
     background-size: cover;
     background-attachment: fixed;
@@ -164,16 +164,15 @@ body
 {
     display: flex;
     justify-content: center;
-    flex-direction: column;
-    align-items:center;
+    flex-direction:column ;
 }
-.a-project
+/*.a-project
 {
-    background-image: url("images/project-stages-animate.svg");
+    background-image: url("images/project-stages-animat.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-}
+}*/
 .automation-project
 {
     display: flex;
@@ -183,7 +182,7 @@ body
 .vehicle-project
 {
     display: flex;
-    justify-content: center;
+    justify-content:center;
 }
 .pic
 {
@@ -286,9 +285,8 @@ form button
     background-image: url("contact-us-animate.svg");
     background-repeat: no-repeat;
     max-width: 100%;
- 
     max-height:100% ;
     background-position: center;
-    background-size: contain;
+    background-size:cover;
 
 }
