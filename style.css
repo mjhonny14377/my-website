@@ -7,7 +7,6 @@ body
     background-position:bottom right;
     max-width: 100%;
     background-size: cover;
-    background-attachment: fixed;
 
 }
 .container-fluid
@@ -17,20 +16,18 @@ body
 }
 .nav-link
 {
-    color: white;
+    color: #fcc200;
 }
 .nav-link:hover
 {
     color:lightslategray
 }
-.nav-link-active
-{
-    color: #fcc200;
-}
+
 .im
 {
     color:#fcc200 ;
 }
+
 /*project*/
 .card
 {
@@ -289,4 +286,23 @@ form button
     background-position: center;
     background-size:cover;
 
+}
+/*------------------project-1--------------------------------------------------------------*/
+.video-1
+{
+    display: flex;
+    justify-content: center;
+}
+.screenshots img
+{
+  padding: 10px;
+}
+.portfolio img
+{
+    padding: 10px;
+
+}
+.portfolio
+{
+    background-color: darkgray;
 }
