@@ -3,3 +3,5 @@
   It also has information on how to contact me via mail(most preferrable) or post or through a call.
   Anyone can get in touch with me to know more about my project.
   I would love to take suggestions  or feedback on how to make my website even better.
+  Here is a link for the git hub hosting
+  https://mjhonny14377.github.io/my-website/
