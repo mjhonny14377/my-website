@@ -2,7 +2,9 @@
 body
 {
     background-color:#002d5c;
-    background-image: url("images/backgroundfullres.jpg");
+    /*background-image: url("images/backgroundfullres.jpg");*/
+    background:linear-gradient(
+        #6441A5,#2a0845) ;
     background-repeat: no-repeat;
     background-position:bottom right;
     max-width: 100%;
